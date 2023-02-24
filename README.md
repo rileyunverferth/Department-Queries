@@ -1,12 +1,15 @@
 # Module 9 Challenge
 
-#Data Modeling
+# Data Modeling
+
 Included is an ERD explaing the tables in our database.
 
-#Data Engineering
+# Data Engineering
+
 Tables are built in our database to house the data in the correct data type.
 
-#Data Analysis
+# Data Analysis
+
 Queries were made to find the following information about our data:
 
 List the employee number, last name, first name, sex, and salary of each employee.
