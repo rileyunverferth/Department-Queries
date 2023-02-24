@@ -12,6 +12,7 @@ Tables are built in our database to house the data in the correct data type.
 
 Queries were made to find the following information about our data:
 
+
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
