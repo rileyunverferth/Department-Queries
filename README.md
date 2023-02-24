@@ -2,7 +2,7 @@
 
 # Data Modeling
 
-Included is an ERD explaing the tables in our database.
+Included is an ERD explaining the tables in our database.
 
 # Data Engineering
 
