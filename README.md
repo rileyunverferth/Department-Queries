@@ -3,6 +3,7 @@
 # Data Modeling
 
 Included is an ERD explaining the tables in our database.
+![image](https://github.com/rileyunverferth/sql-challenge/blob/main/EmployeeSQL/pewlett_hackard_employees_ERD.png)
 
 # Data Engineering
 
