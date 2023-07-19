@@ -1,15 +1,16 @@
-# Module 9 Challenge
+# Department Queries
+### Module 9 Challenge (SQL)
 
-# Data Modeling
+## Data Modeling
 
 Included is an ERD explaining the tables in our database.
 ![image](https://github.com/rileyunverferth/sql-challenge/blob/main/EmployeeSQL/pewlett_hackard_employees_ERD.png)
 
-# Data Engineering
+## Data Engineering
 
 Tables are built in our database to house the data in the correct data type.
 
-# Data Analysis
+## Data Analysis
 
 Queries were made to find the following information about our data:
 
